@@ -1,6 +1,7 @@
 Fuzzy logic is a form of reasoning that deals with approximate values rather than fixed and exact ones. It allows for more flexible and intuitive decision-making, similar to how humans think and make decisions based on imprecise information. Here are the key concepts:
 
-Key Concepts of Fuzzy Logic
+Key Concepts of Fuzzy Logic:
+
 Fuzzy Sets: Unlike classical sets where an element either belongs or doesn't belong to a set, fuzzy sets allow for degrees of membership. An element can partially belong to a set to varying degrees between 0 and 1.
 For example, a person can be 0.8 "tall" and 0.4 "short".
 
